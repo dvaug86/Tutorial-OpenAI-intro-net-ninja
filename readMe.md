@@ -5,4 +5,4 @@ I have completed a few other net ninja tutorials in the past and I really like h
 Here is the link to the first video of 9:
 https://www.youtube.com/watch?v=C4ve8Kjw9ZY&list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu
 
-test
+Things to remember: Just because you have a .env file doesn't mean it will be ignored. Remember you have to create a .gitignore file and have the .env file in there
